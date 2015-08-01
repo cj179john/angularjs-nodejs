@@ -4,7 +4,8 @@ angular.module('app')
     $scope.list1 = [
       {label: 'one'},
       {label: 'two'},
-      {label: 'three'}
+      {label: 'three'},
+      {label: 'four'}
     ];
  
     $scope.list2 = [
