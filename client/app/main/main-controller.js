@@ -12,5 +12,6 @@ angular.module('app')
       {label: 'uno'},
       {label: 'dos'},
       {label: 'tres'}
+      {label: 'test-jon'}
     ];
   }]);
