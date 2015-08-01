@@ -11,7 +11,7 @@ angular.module('app')
     $scope.list2 = [
       {label: 'uno'},
       {label: 'dos'},
-      {label: 'tres'}
+      {label: 'tres'},
       {label: 'test-jon'}
     ];
   }]);
